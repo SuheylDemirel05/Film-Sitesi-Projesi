@@ -20,4 +20,10 @@ This is a simple and beginner-friendly **movie website** built as part of my lea
 
 # 🙏 Thanks for Watching
 
-Thank you for checking out my project! Feedback and suggestions are always welcome.
+- Thank you for checking out my project! Feedback and suggestions are always welcome.
+
+
+# Support
+
+- If you like the project, don't forget to give it a star ⭐
+
